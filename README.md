@@ -10,11 +10,11 @@
 - Cleaned and preprocessed the raw/dirty dataset for effective analysis
 
 ## Methods
-– Applied K‑means clustering (using an elbow curve to select k) to uncover natural groupings
-– Visualized feature relationships with matplotlib charts and heatmaps
-– Trained a Random Forest classifier to predict valence from audio features
-– Extracted and ranked feature importances to pinpoint key drivers
+- Applied K‑means clustering (using an elbow curve to select k) to uncover natural groupings
+- Visualized feature relationships with matplotlib charts and heatmaps
+- Trained a Random Forest classifier to predict valence from audio features
+- Extracted and ranked feature importances to pinpoint key drivers
 
 ## Results
-– Developed a model achieving 89.5% accuracy in valence prediction
-– Identified danceability, energy, and acousticness as the top three contributors to emotional positivity
+- Developed a model achieving 89.5% accuracy in valence prediction
+- Identified danceability, energy, and acousticness as the top three contributors to emotional positivity
