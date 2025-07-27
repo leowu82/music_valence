@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Data Analysis Project: Data-Driven Analysis of Music Valence Factors
 
 ## Objective
 - Analyze how each dimensions of a piece of music (key, mode, dancability, acousticness, etc.) influences the valencity (perceived emotional positivity) of the music
